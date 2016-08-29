@@ -1,1 +1,1 @@
-mongoimport --db=mongo-crud --collection=pets --type=csv --headerline --file=sample/csv/pets.csv
+mongoimport --db=mongo-crud --collection=cities --type=csv --headerline --file=sample/csv/cities.csv --drop
